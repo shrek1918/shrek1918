@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A frontend developer, data anaylist and machine learning enthusiast.</h3>
+<h3 align="center">A Software developer, I break things so I fix them better</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrek1918&label=Profile%20views&color=0e75b6&style=flat" alt="shrek1918" /> </p>
 
